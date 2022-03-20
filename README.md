@@ -3,7 +3,7 @@
 
 ## Initial Installation ##
 
-1. Download/Pull the to your local machine.
+1. Download/Pull the repo to your local machine.
 2. Run `npm install cypress --save-dev` 
 
 
